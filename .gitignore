@@ -1,0 +1,55 @@
+# Ignore the application environment configuration
+.env
+
+# Ignore the storage directory
+/storage
+
+# Ignore the vendor directory
+/vendor
+
+# Ignore the public/hot directory
+/public/hot
+
+# Ignore the public/storage directory
+/public/storage
+
+# Ignore mix-manifest.json file
+/public/mix-manifest.json
+
+# Ignore npm's "node_modules" directory
+/node_modules
+
+# Ignore Homestead VM files
+Homestead.json
+Homestead.yaml
+
+# Ignore PhpStorm files
+.idea
+
+# Ignore SQLite database files
+*.sqlite
+
+# Ignore Sublime Text files
+*.sublime-project
+*.sublime-workspace
+
+# Ignore PHPStorm files
+.idea
+
+# Ignore operating system generated files
+Thumbs.db
+.DS_Store
+
+# Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.vspscc
+*.vssscc
+
+# Ignore log files and others
+*.log
+*.sql
+*.swp
